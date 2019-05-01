@@ -4,7 +4,10 @@ boilerplate for nextjs/react and tests
 
 Frontend: React, Bootstrap, nextjs
 
-Backend: Apollo, GraphQl, MongoDB, Ooth
+Backend: Apollo, GraphQl, MongoDB
+- Auth: Ooth
+- i18n: next-i18next (https://github.com/isaachinman/next-i18next)
+
 
 Tests: Jest, Enzyme, Sinon
 
