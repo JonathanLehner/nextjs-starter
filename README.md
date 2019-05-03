@@ -3,6 +3,7 @@
 boilerplate for nextjs/react and tests
 
 Frontend: React, Bootstrap, nextjs
+- offline (https://github.com/NekR/offline-plugin)
 
 Backend: Apollo, GraphQl, MongoDB
 - Auth: Ooth
