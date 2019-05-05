@@ -4,6 +4,8 @@ boilerplate for nextjs/react and tests
 
 Frontend: React, Bootstrap, nextjs
 - offline (https://github.com/NekR/offline-plugin)
+- offline-db (https://github.com/apollographql/apollo-cache-persist)
+- maybe: Web components https://github.com/ionic-team/stencil
 
 Backend: Apollo, GraphQl, MongoDB
 - Auth: Ooth
