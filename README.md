@@ -3,7 +3,7 @@
 boilerplate for nextjs/react and tests
 
 Frontend: React, Bootstrap, nextjs
-- offline (https://github.com/NekR/offline-plugin)
+- offline (https://github.com/hanford/next-offline)
 - offline-db (https://github.com/apollographql/apollo-cache-persist)
 - maybe: Web components https://github.com/ionic-team/stencil
 
